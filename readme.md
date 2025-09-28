@@ -38,7 +38,7 @@ pip install -r requirements.txt
 
 ---
 
-**Usage**
+# **Usage**
 ```
 python app.py --input path/to/chatfile
 ```
