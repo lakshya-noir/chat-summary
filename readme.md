@@ -48,7 +48,7 @@ python app.py --input path/to/chatfile
 python app.py --input chats/whatsapp.txt --sentiment --participants
 
 ```
--> Using ```--sentiments``` provides the user with sentiment analysis of the chat.
--> Using ```--particpants``` shows the top 5 most active participants in the chat.
+- Using ```--sentiments``` provides the user with sentiment analysis of the chat.
+- Using ```--particpants``` shows the top 5 most active participants in the chat.
 
 ---
