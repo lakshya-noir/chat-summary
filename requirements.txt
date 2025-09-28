@@ -1,0 +1,5 @@
+transformers
+pandas
+argparse
+emoji
+nltk
