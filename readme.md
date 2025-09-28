@@ -4,7 +4,7 @@ A **command-line tool** to summarize WhatsApp or Discord chats using **AI**, wit
 
 ---
 
-## Features
+## ⭐️ Features
 
 - Supports **WhatsApp (.txt)** and **Discord (.json)** chat exports  
 - Generates **AI-powered summaries** of your chats  
@@ -14,7 +14,7 @@ A **command-line tool** to summarize WhatsApp or Discord chats using **AI**, wit
 
 ---
 
-## Installation
+## 🚀 Installation
 
 1. **Clone the repository**
 
@@ -38,7 +38,7 @@ pip install -r requirements.txt
 
 ---
 
-# **Usage**
+## 👾 **Usage**
 ```
 python app.py --input path/to/chatfile
 ```
@@ -52,18 +52,3 @@ python app.py --input chats/whatsapp.txt --sentiment --participants
 -> Using ```--particpants``` shows the top 5 most active participants in the chat.
 
 ---
-
-# **Installing Dependencies**
-```
-pip install transformers nltk pandas colorama
-
-```
-
----
-
-This version is **clean, GitHub-ready, and copy-paste friendly**.  
-
-If you want, I can also make a **more compact, flashy version** that looks modern and “GitHub portfolio ready” while keeping all essential info.  
-
-Do you want me to do that next?
-
